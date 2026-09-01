@@ -10,7 +10,7 @@ AI 编程与 API 调用福利信息汇总。
 
 ## JustDoWork
 
-注册送 **$70**，每日签到约 **$25**。[点击注册](https://api.justwoker.icu/register?aff=pzPu)（仅支持 GitHub 登录，账号需满 **1 年**）
+免费送 **$50**，每日签到约 **$20**。[点击注册](https://api.justwoker.icu/register?aff=pzPu)（仅支持 GitHub 登录，账号需满 **1 年**）
 
 模型：`claude-opus-5`、`claude-opus-5-thinking`。
 
@@ -18,7 +18,7 @@ AI 编程与 API 调用福利信息汇总。
 
 ## NOFX
 
-注册送 **$15**，每日签到约 **$15**；支持主流模型，按模型倍率扣积分。连续 30 天未调用，剩余积分可能清空。[点击注册](https://nofx.one/zh-CN/sign-in?ref=EZKHTM7W)
+免费送 **15 积分**，每日签到 **5 积分**；支持主流模型，按模型倍率扣积分。连续 30 天未调用，剩余积分可能清空。[点击注册](https://nofx.one/zh-CN/sign-in?ref=EZKHTM7W)
 
 ---
 
