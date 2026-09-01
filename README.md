@@ -1,21 +1,13 @@
 # AI 大模型福利站
 
+![AI 大模型福利站海报](assets/ai-api-welfare-poster.png)
+
 整理可用于 AI 编程、对话和 API 调用的福利站信息。
 
 > 邀请链接带推广参数；赠送额度、模型、价格和活动规则可能调整，请以各平台后台为准。
 
 > [!IMPORTANT]
 > **JustDoWork 与 AgentRouter 目前仅支持 GitHub 登录，暂不支持邮箱/密码登录。** 注册前请确认 GitHub 账号可以正常授权。
-
-## 福利站汇总
-
-| 平台 | 注册福利 | 每日福利 | 支持模型 | 注册链接 |
-| --- | --- | --- | --- | --- |
-| JustDoWork | 邀请注册赠送 **$70** 额度；仅支持 GitHub 登录 | 每日前端签到约 **$25** | Claude Opus 5 系列 | [立即注册](https://api.justwoker.icu/register?aff=pzPu) |
-| NOFX | 邀请注册赠送 **$15** 额度 | 可通过签到、任务获取积分 | 主流模型，具体以模型广场为准 | [立即注册](https://nofx.one/zh-CN/sign-in?ref=EZKHTM7W) |
-| AgentRouter | 邀请注册可领取额度，具体以后台为准；仅支持 GitHub 登录 | 每日前端签到约 **$25** | GPT、Claude 定时供应；另有 DeepSeek、GLM 等模型 | [立即注册](https://agentrouter.org/register?aff=o85q) |
-
----
 
 ## JustDoWork
 
@@ -35,7 +27,7 @@
 
 ## NOFX
 
-邀请注册赠送 **$15** 额度，可通过每日签到及完成任务获得免费积分。
+邀请注册赠送 **$15** 额度；每日签到约送 **$15** 额度，也可通过完成任务获得免费积分。
 
 | 项目 | 说明 |
 | --- | --- |
@@ -50,7 +42,7 @@
 
 ## AgentRouter
 
-支持 GPT、Claude 定时供应，并提供 DeepSeek、GLM 等多模型 API。每日可在前端签到领取约 **$25** 额度。
+注册赠送 **$150** 额度。支持 GPT、Claude 定时供应，并提供 DeepSeek、GLM 等多模型 API；每日可在前端签到领取约 **$25** 额度。
 
 > [!TIP]
 > 注册仅支持 **GitHub 登录**，暂不支持邮箱/密码登录。
