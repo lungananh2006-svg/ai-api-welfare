@@ -8,15 +8,15 @@
 
 | 平台 | 注册福利 | 每日福利 | 支持模型 | 注册链接 |
 | --- | --- | --- | --- | --- |
-| JustDoWork | 邀请注册赠送 **$70** 额度 | 每日前端签到约 **$25** | Claude Opus 5 系列 | [立即注册](https://api.justwoker.icu/register?aff=pzPu) |
+| JustDoWork | 邀请注册赠送 **$70** 额度；仅支持 GitHub 登录 | 每日前端签到约 **$25** | Claude Opus 5 系列 | [立即注册](https://api.justwoker.icu/register?aff=pzPu) |
 | NOFX | 邀请注册赠送 **$15** 额度 | 可通过签到、任务获取积分 | 主流模型，具体以模型广场为准 | [立即注册](https://nofx.one/zh-CN/sign-in?ref=EZKHTM7W) |
-| AgentRouter | 邀请注册可领取额度，具体以后台为准 | 每日前端签到约 **$25** | GPT、Claude 定时供应；另有 DeepSeek、GLM 等模型 | [立即注册](https://agentrouter.org/register?aff=o85q) |
+| AgentRouter | 邀请注册可领取额度，具体以后台为准；仅支持 GitHub 登录 | 每日前端签到约 **$25** | GPT、Claude 定时供应；另有 DeepSeek、GLM 等模型 | [立即注册](https://agentrouter.org/register?aff=o85q) |
 
 ---
 
 ## JustDoWork
 
-邀请注册赠送 **$70** 额度；每日签到可领取约 **$25** 额度。
+邀请注册赠送 **$70** 额度；每日签到可领取约 **$25** 额度。注册仅支持 **GitHub 登录**，暂不支持邮箱/密码登录。
 
 | 模型 | 输入价格 | 输出价格 | 接口 | 说明 |
 | --- | ---: | ---: | --- | --- |
@@ -44,7 +44,7 @@
 
 ## AgentRouter
 
-支持 GPT、Claude 定时供应，并提供 DeepSeek、GLM 等多模型 API。每日可在前端签到领取约 **$25** 额度。
+支持 GPT、Claude 定时供应，并提供 DeepSeek、GLM 等多模型 API。每日可在前端签到领取约 **$25** 额度。注册仅支持 **GitHub 登录**，暂不支持邮箱/密码登录。
 
 | 模型 | 输入价格 | 输出价格 |
 | --- | ---: | ---: |
