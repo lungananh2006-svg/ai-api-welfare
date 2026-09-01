@@ -1,6 +1,8 @@
 # AI 大模型福利站
 
-![AI 大模型福利站海报](assets/ai-api-welfare-poster.png)
+<p align="center">
+  <img src="assets/ai-api-welfare-poster.png" alt="AI 大模型福利站海报" width="480">
+</p>
 
 AI 编程与 API 调用福利信息汇总。
 
