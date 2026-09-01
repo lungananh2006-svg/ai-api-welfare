@@ -1,7 +1,7 @@
 # AI 大模型福利站
 
 <p align="center">
-  <a href="https://github.com/lungananh2006-svg/ai-api-welfare"><img src="assets/ai-api-welfare-poster-v2.png" alt="AI 大模型福利站海报（含福利汇总二维码）" width="360"></a>
+  <a href="https://github.com/lungananh2006-svg/ai-api-welfare"><img src="assets/ai-api-welfare-poster-v4.png" alt="AI 大模型福利站海报（含福利汇总二维码）" width="360"></a>
 </p>
 
 AI 编程与 API 调用福利信息汇总。
