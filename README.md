@@ -8,12 +8,9 @@ AI 编程与 API 调用福利信息汇总。
 
 > 额度、模型和价格会调整，请以平台后台为准。
 
-> [!IMPORTANT]
-> **JustDoWork 与 AgentRouter 目前仅支持 GitHub 登录，暂不支持邮箱/密码登录。** 注册前请确认 GitHub 账号可以正常授权。
-
 ## JustDoWork
 
-注册送 **$70**，每日签到约 **$25**；仅支持注册满 **1 年**的 GitHub 账号登录。[点击注册](https://api.justwoker.icu/register?aff=pzPu)
+注册送 **$70**，每日签到约 **$25**。[点击注册](https://api.justwoker.icu/register?aff=pzPu)（仅支持 GitHub 登录，账号需满 **1 年**）
 
 模型：`claude-opus-5`、`claude-opus-5-thinking`。
 
@@ -27,7 +24,7 @@ AI 编程与 API 调用福利信息汇总。
 
 ## AgentRouter
 
-注册送 **$150**，每日签到约 **$25**；仅支持注册满 **9 个月**的 GitHub 账号登录。[点击注册](https://agentrouter.org/register?aff=o85q)
+注册送 **$150**，每日签到约 **$25**。[点击注册](https://agentrouter.org/register?aff=o85q)（仅支持 GitHub 登录，账号需满 **9 个月**）
 
 模型：GPT、Claude 定时供应，另有 DeepSeek、GLM；支持 Anthropic / OpenAI 兼容接口。
 
