@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lungananh2006-svg/ai-api-welfare">福利汇总</a><br>
-  <img src="assets/ai-api-welfare-qrcode.svg" alt="福利汇总二维码" width="120">
+  <a href="https://github.com/lungananh2006-svg/ai-api-welfare">福利汇总</a>
+  <a href="https://github.com/lungananh2006-svg/ai-api-welfare"><img src="assets/ai-api-welfare-qrcode.svg" alt="福利汇总二维码" width="100" align="middle"></a>
 </p>
 
 AI 编程与 API 调用福利信息汇总。
