@@ -13,9 +13,9 @@ AI 编程与 API 调用福利信息汇总。
 
 > 额度、模型和价格会调整，请以平台后台为准。
 
-## JustDoWork
+## JustDoWork · [点击注册](https://api.justwoker.icu/register?aff=pzPu)
 
-免费送 **$50**，每日签到约 **$20**。[点击注册](https://api.justwoker.icu/register?aff=pzPu)（仅支持 GitHub 登录，账号需满 **1 年**）
+免费送 **$50**，每日签到约 **$20**。（仅支持 GitHub 登录，账号需满 **1 年**）
 
 模型：`claude-opus-5`、`claude-opus-5-thinking`。
 
