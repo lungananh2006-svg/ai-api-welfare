@@ -26,9 +26,15 @@ AI 编程与 API 调用福利信息汇总。
 
 注册送 **$150**，每日签到约 **$25**。[点击注册](https://agentrouter.org/register?aff=o85q)（仅支持 GitHub 登录，账号需满 **9 个月**）
 
-模型：GPT、Claude 定时供应，另有 DeepSeek、GLM；支持 Anthropic / OpenAI 兼容接口。
+模型：GPT、Claude  DeepSeek、GLM；支持 Anthropic / OpenAI 兼容接口。
 
 ---
+## gorouter
+
+注册送 **$90**，[点击注册](https://gorouter.app/sign-up?aff=grHS)（仅支持 GitHub 登录，账号需满 **9 个月**）
+
+模型：`claude-opus-5`、`claude-opus-5-thinking`。
+
 
 ## 免责声明
 
